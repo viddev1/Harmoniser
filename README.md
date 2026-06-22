@@ -1,4 +1,4 @@
-# my-project — multi-tool AI harness
+# Harmoniser — multi-tool AI harness
 
 A demonstration harness that lets **Claude Code, Cursor, and Codex** share one set of
 skills, prompts, and docs without drift. Everything is authored once in **`.shared/`**
